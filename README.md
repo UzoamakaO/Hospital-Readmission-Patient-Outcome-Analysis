@@ -52,7 +52,8 @@ This project explores hospital admission data to identify trends in patient read
 - Length of Stay vs Treatment Cost
 - Department Cost & Readmission Table
 <img width="1533" height="862" alt="Screenshot 2026-08-03 195311" src="https://github.com/user-attachments/assets/9e265e39-057b-4eb7-bb07-d95a02024040" />
-<img width="1528" height="665" alt="Screenshot 2026-08-03 195400" src="https://github.com/user-attachments/assets/de4498a8-af39-4cba-ab97-dca3d83ad9a3" />
+<img width="1521" height="563" alt="Screenshot 2026-08-03 200149" src="https://github.com/user-attachments/assets/784f8787-9458-4206-abe1-0a837df3352d" />
+
 
 
 
