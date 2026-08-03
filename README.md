@@ -41,8 +41,9 @@ This project explores hospital admission data to identify trends in patient read
 - Readmission Rate by Department
 - Readmission Rate by Age Group
 - Department Performance Table
-  <img width="1495" height="827" alt="Screenshot 2026-08-03 194845 2" src="https://github.com/user-attachments/assets/4a59ad85-946e-4bbe-90e7-153a88eab348" />
-<img width="1507" height="568" alt="Screenshot 2026-08-03 194946" src="https://github.com/user-attachments/assets/72829b86-e58d-4c6d-a7d1-172bfd40abc8" />
+<img width="1495" height="827" alt="Screenshot 2026-08-03 194845 2" src="https://github.com/user-attachments/assets/4a59ad85-946e-4bbe-90e7-153a88eab348" />
+<img width="1522" height="337" alt="Screenshot 2026-08-03 195715" src="https://github.com/user-attachments/assets/1728e19c-d689-4abe-ba74-b7f6a41e6a2c" />
+
 
 
 ### Cost & Outcome Analysis
